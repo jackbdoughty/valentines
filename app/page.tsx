@@ -21,12 +21,12 @@ export default function Home() {
     setCoords({ x: `${x}%`, y: `${y}%` });
 
     const phrases = [
-      "Wrong button ❌",
-      "Are you sure 🤔?",
-      "But what if 🫣?",
-      "You're breaking my heart 💔",
-      "Pwetty please 🥺👉👈",
-      "Can't catch up? 😂"
+      "wrong button xx",
+      "are you sure?",
+      "nah u buggin twin 🫣?",
+      "poo bum fart 💔",
+      "OOPIE POOPIE🥺👉👈",
+      "can't catch me lmao"
     ]
 
     const randomIndex = Math.floor(Math.random() * phrases.length);
@@ -41,7 +41,7 @@ export default function Home() {
     <div className="container">
       <section>
         <div>
-          <p>♡ Will you be my Valentine? ♡</p>
+          <p>will you be my valentine beb xxxxxxxx?</p>
         </div>
         <div className="img-container">
           {image ? (
