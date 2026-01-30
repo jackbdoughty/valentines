@@ -45,10 +45,10 @@ export default function Home() {
         </div>
         <div className="img-container">
           {image ? (
-            <Image src="https://media.tenor.com/8pdckWmmfjIAAAPo/" alt="cat spinning with sparkles" width={270} height={200} className="cat" />
+            <Image src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxrbDAzYjJ6bTlsOHVxdDEyc2ZxeWNzNThqMXh6MWJtcDV3ZDR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RNYPzaOb9FDkA/giphy.gif" alt="cat spinning with sparkles" width={270} height={200} className="cat" />
 
           ) : (
-            <Image src="https://media.tenor.com/eOX24FFzplUAAAPo/" alt="two animals asking each other to be their valentine gif" width={340} height={200} priority />
+            <Image src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY1ZzhzaWVtZWsxdHEwaXdtOHhoa21rODZ3dDlzNHl1c2lsbDc3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MIAnkATgyB0Pe2gEds/giphy.gif" alt="two animals asking each other to be their valentine gif" width={340} height={200} priority />
           )}
         </div>
         <div className="button-section">
